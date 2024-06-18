@@ -80,7 +80,7 @@ def get_amount_deltas(L, p, p1, p2):
 
 
 # streamlit (my edits)
-st.title('Dashboard title')
+st.title('Pearl Position Balances')
 
 token_id = st.number_input("Please enter a token ID",
         value = 207,
